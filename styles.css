@@ -1,11 +1,16 @@
 body {
     text-align: center;
+        height: 100%;
+        margin: 0;
+        padding: 0 0 100px;
+        background-color: rgba( 0, 0, 225, 0.1);
 }
 
 h1 {
     font-family: Monoton;
     font-size: 70px;
-    margin: 0.2em;
+    margin: 0;
+        background-color: rgba( 0, 0, 225, 0.3);
 }
 
 h2 {
@@ -37,4 +42,35 @@ td {
 
 input[type=number] {
     width: 6em;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    color: #fff;
+    bottom: 0;
+    background-color: #00f;
+    margin-top: 10px;
+}
+
+.pixel {
+    margin: 8px 0 2px;
+}
+
+.ayo {
+    font-style: italic;
+    font-weight: 700;
+}
+
+.power {
+    font-size: 10px;
+    margin-top: 0;
+}
+
+.google {
+    background-color: #fff;
+    color: blue;
+    border-radius: 5px;
+    padding: 0 2px;
+    font-weight: 700;
 }
