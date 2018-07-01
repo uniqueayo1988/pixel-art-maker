@@ -1,16 +1,16 @@
 body {
     text-align: center;
-        height: 100%;
-        margin: 0;
-        padding: 0 0 100px;
-        background-color: rgba( 0, 0, 225, 0.1);
+    height: 100%;
+    margin: 0;
+    padding: 0 0 100px;
+    background-color: rgba( 0, 0, 225, 0.1);
 }
 
 h1 {
     font-family: Monoton;
     font-size: 70px;
     margin: 0;
-        background-color: rgba( 0, 0, 225, 0.3);
+    background-color: rgba( 0, 0, 225, 0.3);
 }
 
 h2 {
